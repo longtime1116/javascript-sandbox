@@ -20,3 +20,6 @@
 * Debugger for Chrome
 * erb
 * setting sync
+
+# JS の潮流を知るために
+* [JSer.info](https://jser.info/)
